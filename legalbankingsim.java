@@ -1,6 +1,6 @@
 import java.util.Objects;
 import java.util.Scanner;
-public class Main {
+public class legalbankingsim {
     static String name;
     static int age;
     static int code;
