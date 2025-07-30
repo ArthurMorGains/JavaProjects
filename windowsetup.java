@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class Main {
+public class windowsetup {
     public static void main(String[] args){
         JFrame window = new JFrame("Window");
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
